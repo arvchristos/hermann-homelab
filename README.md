@@ -1,6 +1,9 @@
 # hermann-homelab
 Bash script to ease my humble homelab's management
 
+## Screenshots
+![main_menu](https://imgur.com/Jm5jsVR)
+
 ## Current functionality includes:
 * Scan and show network devices in dialog list
 * Wake up device based on LAN
