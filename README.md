@@ -23,4 +23,4 @@ Bash script to ease my humble homelab's management
   [DEVICE1 NAME\]-\[DEVICE1 MAC ADDRESS]
   ...
   ```
-* Must be on the same directory with the hermann executable
+* Must be on the same directory with the **hermann** executable
